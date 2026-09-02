@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+    font-size:20px;
+}
+p {
+    background-color:burlywood;
+    color:black;
+    border: 100px solid;
+    
+    /* margin is around the element only*/
+    margin:50px;
+    /* padding is the internal spacing */
+    padding:50px;
+}
+
+h1 {
+    color:brown;
+}
+
+/* css classes are noted by a . in front of their class name */
+.banner {
+    background-color:aquamarine;
+    font-size:40px;
+    text-align:center;
+    font-family:Helvetica, sans-serif;
+}
