@@ -1,0 +1,36 @@
+body {
+    background-color:aquamarine;
+    text-align: center;
+    
+    
+    
+
+}
+head {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+    .block {
+        background-color:goldenrod;
+        border: 2px solid;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 15px;
+}
+
+.micro-photo {
+    border: 5px solid;
+
+}
+
+.inline-block{
+    background-color:brown;
+    border: 2px solid;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
